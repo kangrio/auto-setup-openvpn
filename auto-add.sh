@@ -19,3 +19,9 @@ dhcp-option DNS 8.8.4.4
 dhcp-option DOMAIN google.com" >> /sdcard/ovpn/file/*
 
 sed '4d' /sdcard/ovpn/file/* > /sdcard/ovpn/new.ovpn
+
+echo -e "Go To sdcard/ovpn"
+echo -e "You can Find new.ovpn"
+
+echo -e "Creat By :Kangrio"
+echo -e "Good Luck"
