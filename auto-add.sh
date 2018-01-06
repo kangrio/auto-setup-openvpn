@@ -31,6 +31,11 @@ echo -e ""
 echo -e ""
 echo -e "Go To sdcard/ovpn"
 echo -e "You can Find new.ovpn"
+echo -e "ไฟล์อยู่ใน sdacrd/ovpn
+ชื่อไฟล์ new.ovpn
+
+
+"
 
 echo -e "Creat By :Kangrio"
 echo -e "Good Luck"
