@@ -1,4 +1,4 @@
 #start now
 wget -O auto-add.sh "https://raw.githubusercontent.com/kangrio/auto-setup-openvpn/master/auto-add.sh"
-chmod +x auto-add.
+chmod +x auto-add.sh
 ./auto-add.sh
