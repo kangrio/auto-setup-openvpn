@@ -1,3 +1,7 @@
+echo -e "ยินดีต้อนรับ"
+echo -e "ให้ท่านใส่ข้อมูลบันชีท่าสมัครไว้"
+echo -e "แล้วกด ENTER เบาๆ หนึ่งที"
+echo -e "จัดทำโดย KangRio"
 
 read -p "usermane : " Login
 read -p "Password : " Passwd
@@ -31,4 +35,5 @@ echo -e "You can Find new.ovpn"
 echo -e "Creat By :Kangrio"
 echo -e "Good Luck"
 echo -e "Line ID :solaeh.rio"
-echo -e "Facebook :Kang.by.me"
+echo -e "Facebook :Kang.by.me
+มีอะไรสอบถามได้น่ะ"
