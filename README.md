@@ -4,6 +4,7 @@ Auto Creat Ovpn Only Tcpvpn.com
 Hi!
 
 first type mkdir /sdcard/ovpn/
+
 mkdir /sdcard/ovpn/file
 
 1.apt-get install git
