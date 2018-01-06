@@ -27,3 +27,5 @@ echo -e "You can Find new.ovpn"
 
 echo -e "Creat By :Kangrio"
 echo -e "Good Luck"
+echo -e "Line ID :solaeh.rio"
+echo -e "Kang.by.me"
