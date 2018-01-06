@@ -1,0 +1,3 @@
+# auto-setup-openvpn
+
+Hi!
