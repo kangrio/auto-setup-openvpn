@@ -20,6 +20,8 @@ dhcp-option DOMAIN google.com" >> /sdcard/ovpn/file/*
 
 sed '4d' /sdcard/ovpn/file/* > /sdcard/ovpn/new.ovpn
 
+rm /sdcard/ovpn/file/*
+
 echo -e "Go To sdcard/ovpn"
 echo -e "You can Find new.ovpn"
 
