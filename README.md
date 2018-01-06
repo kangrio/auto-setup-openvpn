@@ -12,4 +12,3 @@ go to sdcard/ovpn
 You can find new.ovpn
 and import to openvpn connect
 😊😊😊😊😊😊Good luck😊😊😊😊😊😊
-😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊
