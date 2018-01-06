@@ -1,5 +1,4 @@
 
-mkdir /sdcard/ovpn/file
 read -p "usermane : " Login
 read -p "Password : " Passwd
 read -p "Proxy : " Proxy
